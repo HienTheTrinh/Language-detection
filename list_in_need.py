@@ -1,0 +1,22 @@
+language_sym = ['vi','en', 'fr', 'ar', 'ko', 'zh', 'ja', 'de', 'ru', 'it', 'pt', 'es', 'nl', 'pl', 'ta', 'uk', 'sv', 'ms', 'ro', 'tr']
+delimeter_list = ['.', '.', '.', '.', '.', '。', '。', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.']
+url_list = ['https://vi.wikipedia.org/wiki/V%C3%B5_Nguy%C3%AAn_Gi%C3%A1p',
+            'https://en.wikipedia.org/wiki/Australia',
+            'https://fr.wikipedia.org/wiki/Napol%C3%A9on_Ier',
+            'https://ar.wikipedia.org/wiki/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7',
+            'https://ko.wikipedia.org/wiki/%EC%A1%B0%ED%98%84%EC%9A%B0', 
+            'https://zh.wikipedia.org/wiki/%E8%A5%BF%E8%92%99%C2%B7%E7%8E%BB%E5%88%A9%E7%93%A6%E5%B0%94%C2%B7%E5%B7%B4%E5%85%8B%E7%BA%B3',
+            'https://ja.wikipedia.org/wiki/%E6%B1%A0%E4%B8%8A%E7%AB%B6%E9%A6%AC%E5%A0%B4',
+            'https://de.wikipedia.org/wiki/Lord_Vigo', 
+            'https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0',
+            'https://it.wikipedia.org/wiki/Alto_Mantovano',
+            'https://pt.wikipedia.org/wiki/%C3%81rea_de_Comando_Oriental_da_RAAF',
+            'https://es.wikipedia.org/wiki/Vitelio',
+            'https://nl.wikipedia.org/wiki/Keurvorst',
+            'https://pl.wikipedia.org/wiki/Kolos_(obraz_Francisca_Goi)',
+            'https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AE%BF%E0%AE%AE%E0%AF%8B%E0%AE%A9%E0%AF%8D',
+            'https://uk.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E',
+            'https://sv.wikipedia.org/wiki/For_the_Time_Being',
+            'https://ms.wikipedia.org/wiki/Sarawak',
+            'https://ro.wikipedia.org/wiki/Los_Angeles',
+            'https://tr.wikipedia.org/wiki/Samsun_19_May%C4%B1s_Stadyumu']
